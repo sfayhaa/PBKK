@@ -1,0 +1,16 @@
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple).csproj.AssemblyReference.cache
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple).csproj.SuggestedBindingRedirects.cache
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\MainWindow.g.cs
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\App.g.cs
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple)_MarkupCompile.cache
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple)_MarkupCompile.lref
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\bin\Debug\Helloworld(simple).exe.config
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\bin\Debug\Helloworld(simple).exe
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\bin\Debug\Helloworld(simple).pdb
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\MainWindow.baml
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple).g.resources
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld_simple_.Properties.Resources.resources
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple).csproj.GenerateResource.cache
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple).csproj.CoreCompileInputs.cache
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple).exe
+C:\Users\62822\source\repos\Helloworld(simple)\Helloworld(simple)\obj\Debug\Helloworld(simple).pdb
